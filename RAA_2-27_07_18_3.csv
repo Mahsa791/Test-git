@@ -1,8 +1,4 @@
-Experiment Name = RAA_2-27_07_18_2
-raa_2_Set_temps =87 
-raa_2_Set_H2O2 = 15
-raa_2_electrode = ['BASi_Old100um']
-Equation=['4.8729x-0.0461']
+
 Time,temp,raa2_conc_raw,raa2_conc_ave,current,raa2_pump
 2018-07-26-15-30-43-694,0.0,nan,0.0,nan,0
 2018-07-26-15-30-53-817,0.0,nan,0.0,nan,0
